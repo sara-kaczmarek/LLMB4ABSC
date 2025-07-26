@@ -1,0 +1,521 @@
+original_aspect,expanded_aspects
+bread,"bread, bread roll, bread bun, bread loaf, bread stick"
+delivery times,"delivery time, delivery times"
+food,"food, meal, dish, cuisine, menu"
+coffee,"coffee, espresso, cappuccino, latte, mocha"
+place,"location, restaurant, spot, area, place"
+people,people
+japanese food,japanese food
+asian salad,"asian salad, salad, asian"
+spicy tuna roll,spicy tuna roll
+rose roll,rose roll
+menu,menu
+drinks,"beverages, drinks"
+lychee martini,lychee martini
+nicoise salad,"salad, nicoise, salad nicoise, nicoise salad"
+dessert pizza,"dessert, pizza, dessert pizza"
+live entertainment,"music, band, performance, live entertainment"
+waiter,"waiter, server"
+sangria,"sangria, sangria wine, sangria drink, sangria cocktail, sangria wine cocktail"
+sushi,"sushi, sashimi, nigiri, maki, california roll"
+portions,"portion, portions, portion size, portion sizes, portion size of the food"
+price,"cost, value, expense, rate, price"
+service,"service, staff, waiter, server"
+portions of the food,portions of the food
+waitress's,"waiter, server, hostess, bartender, waitress's"
+staff memebers,"staff, staff members, staff memebers"
+parking,"parking lot, parking space, parking garage, parking"
+desserts,"desserts, dessert, sweets"
+tart of the day,tart of the day
+wine,"wine, red wine, white wine, wine list, wine selection"
+lasagna,"lasagna, pasta, dish, food, meal"
+array of sushi,"sushi, sushi bar, sushi restaurant, sushi roll, sushi platter, array of sushi"
+cuisine,"food, dishes, menu, meal, meals, cuisine"
+owners,"owners, owner, ownerships, owner's"
+staff,"staff, service, waiter, server"
+indian food,indian food
+ambiance,ambiance
+garden,"garden, patio, terrace, courtyard"
+appetizers,appetizers
+entrees,"appetizers, main course, main dish, entrees"
+decor,decor
+lunch,"lunch, meal, food, mealtime"
+dinners,"dinners, dinner"
+steaks,"steak, beef, meat, prime rib, filet mignon, steaks"
+meatball parm,meatball parm
+latin food,latin food
+taglierini with truffles,"tagliatelle, tagliolini with truffles, tagliolini with truffles and parmesan, tagliolini with truffles and parmesan and cream, taglierini with truffles"
+gnocchi,gnocchi
+portion size,"portion, size, amount, quantity, portion size"
+portobello/gorgonzola/sausage appetizer,"gorgonzola, sausage, appetizer, portobello/gorgonzola/sausage appetizer"
+lobster risotto,lobster risotto
+fettuccine alfredo,fettuccine alfredo
+chicken parmigiana,chicken parmigiana
+teriyaki,"teriyaki sauce, teriyaki chicken, teriyaki beef, teriyaki pork, teriyaki salmon, teriyaki"
+meal,"food, dish, cuisine, meal, mealtime"
+peanut butter sorbet,peanut butter sorbet
+pizza with soy cheese,pizza with soy cheese
+atmosphere,"ambience, ambiance, mood, vibe, atmosphere"
+waitstaff,"waiter, server, waitstaff"
+beer,"beer, ale, lager, porter"
+kimono shrimp special,"kimono shrimp special, shrimp, kimono"
+priced,"cost, price, value, priced"
+ingredients,"ingredients, food, dishes, menu, cuisine"
+appetizer,"appetizer, hors d'oeuvre"
+spicy mussels,spicy mussels
+onion rings,onion rings
+prices,"price, cost, bill, expense, rate, prices"
+manager,manager
+milkshakes,milkshakes
+mushroom barley soup,mushroom barley soup
+duck,duck
+curried casseroles,curried casseroles
+taste,"flavor, taste, quality, texture"
+seafood,"fish, crustacean, mollusk, seafood"
+orange donut,orange donut
+meats,"meat, meats, meaty"
+management,"management, manager, managers, management team, management staff"
+ambience,"atmosphere, decor, ambiance, mood, ambience"
+teas,"tea, teas, tea leaves, tea bags, tea cups"
+sweets,"desserts, sweets"
+mojitos,"mojito, mojitos, mojito cocktail, mojito drink, mojito recipe"
+sandwiches,"sandwiches, sandwich"
+burgers,"burger, hamburger, beef burger, burgers"
+salads,"salad, salad bar, salads"
+lemon-dressed cobb,"lemon-dressed, salad, lemon-dressed cobb"
+design,"style, decor, layout, ambiance, design"
+fajita,"fajitas, fajita"
+mole sauce,mole sauce
+roasted chickens,roasted chickens
+selection,selection
+steak,"steak, beef, meat, filet"
+waiters,"waiters, waitstaff, waitresses"
+selection of food,"food, meal, cuisine, dish, menu, selection of food"
+dessert,dessert
+hot dog,hot dog
+bar,bar
+wraps,"wrap, wraps"
+mango margareta,mango margareta
+folding chair,folding chair
+fettucino alfredo,fettucino alfredo
+vegan options,vegan options
+smoked trout,smoked trout
+lamb chops,lamb chops
+veal chops,veal chops
+rabbit,"bunny, hare, jackrabbit, cottontail, rabbit"
+potato gratin,"potato gratin, gratin potatoes"
+chef,chef
+eggs benedict,eggs benedict
+mussels,"mussels, mussel"
+hamburger,"burger, patty, meat, beef, bun, hamburger"
+falafal,falafal
+chicken,"chicken, chicken breast, chicken wings, chicken tenders, chicken nuggets"
+grand marnier shrimp,"shrimp, shrimp dish, shrimp dish with grand marnier, shrimp with grand marnier, shrimp with grand marnier sauce, grand marnier shrimp"
+flan,"flan, dessert, dessert item, dessert dish, dessert course"
+sopaipillas,sopaipillas
+wait staff,"waiter, server, wait staff"
+soup,"broth, soup"
+crepes,"waffles, omelettes, eggs, crepes"
+creme brulee,creme brulee
+apple tart,apple tart
+shrimp creole,shrimp creole
+chicken dinner,"chicken, dinner, meal, food, dish, chicken dinner"
+chili signed food items,"chili, chili pepper, chili sauce, chili powder, chili flakes, chili signed food items"
+coconut rice,coconut rice
+ribs,"ribs, rib"
+beef,"steak, meat, burger, hamburger, filet, beef"
+avocado salad,"salad, avocado salad, avocado salad with chicken, avocado salad with shrimp"
+honey bbq rib tips,"honey bbq rib tips, honey bbq ribs"
+chinese food,chinese food
+pasta,"spaghetti, noodles, macaroni, fettuccine, linguine, pasta"
+wine list,"wine list, wine menu, wine selection"
+cocktail menu,"cocktail menu, cocktail list, drink menu, drink list, drinks menu, drinks list"
+crab cakes,crab cakes
+bbq rib,"ribs, rib, bbq ribs, bbq rib"
+pizza,"pizza, pies"
+beer list,"beer list, beer selection, beer menu, beer options, beer choices"
+scallops,scallops
+asparagus,"asparagus spears, asparagus tips, asparagus stalks, asparagus shoots, asparagus"
+soft shell crab,soft shell crab
+cheese plate,"cheese, cheese plate, cheese platter, cheese board, cheese selection"
+hotdogs,"hotdog, hot dogs, hot dog, hotdogs"
+saag gosht,saag gosht
+garlic knots,garlic knots
+music,"music, tunes, melody"
+owner,"owner, manager, proprietor, boss, head"
+cooked food,cooked food
+dinner specials,"dinner specials, specials"
+dining atmosphere,"ambiance, atmosphere, decor, surroundings, dining atmosphere"
+food portion,"food, portion, amount, size, quantity, food portion"
+chairs,"seats, tables, benches, stools, chairs"
+tacos pastor,tacos pastor
+tostada de tinga,tostada de tinga
+bartenders,bartenders
+managers,"manager, managers, manageress"
+hot and sour soup,hot and sour soup
+soup and sandwich meal,soup and sandwich meal
+chick peas with shrimp (appetizer),chick peas with shrimp (appetizer)
+lamb,"lamb, mutton, mutton chops, lamb chops, lamb shank"
+soft shell crab sandwich with fries,soft shell crab sandwich with fries
+hong kong-style food,"hong kong style food, hong kong style cuisine, hong kong style dishes, hong kong-style food"
+kitchen food,"food, kitchen, cuisine, meal, kitchen food"
+waitresses,"waiters, waitstaff, waitresses"
+italian food,italian food
+rolls,"rolls, sushi, sushi rolls"
+sushi/sashimi,"sushi, sashimi, raw fish, raw seafood, seafood, sushi/sashimi"
+sashimi,"sushi, raw fish, fish, seafood, salmon, sashimi"
+hot dogs,hot dogs
+breakfast sandwiches,"breakfast sandwich, breakfast sandwiches"
+tator tots,"tator tots, tater tots"
+english muffins,"english muffin, english muffins"
+taylor ham,taylor ham
+pork product,pork product
+bartender,bartender
+waiting,"wait time, wait time for food, wait time for table, wait time for service, waiting"
+green chillis,green chillis
+dish,"food, meal, plate, dish, cuisine"
+meals,"food, dishes, cuisine, menu, meal, meals"
+take-out,take-out
+dine-in,dine-in
+fresh juice concoctions,fresh juice concoctions
+soul food,"soul food, soul food restaurant, soul food cuisine, soul food restaurant cuisine"
+roast chicken,roast chicken
+salad,"salad, greens, vegetables, side salad"
+chicken with avocado,chicken with avocado
+tuna,"tuna, tuna fish, tuna steak, tuna salad, tuna sandwich"
+sauce,"gravy, marinade, condiment, sauce"
+malted milk ball gelato,malted milk ball gelato
+bar service,bar service
+black vinegar,black vinegar
+shredded ginger,"shredded ginger, ginger, ginger root"
+lighting,"dim, light, illumination, lighting"
+disco pop duo,disco pop duo
+escargot,"escargot, snail, snail dish"
+vegetarian platters,vegetarian platters
+host (owner),"host, owner, manager, waiter, host (owner)"
+servers,"waiters, waitresses, staff, employees, personnel, servers"
+hostess,hostess
+vietnamese beef noodle soup,"vietnamese beef noodle soup, pho"
+dining experience,"dining experience, dining, experience"
+interior,"decor, ambiance, atmosphere, interior"
+crust,"crust, dough, base, bottom, bread"
+rolls with crab,"crab rolls, crab roll, crab rolls with crab, crab rolls with crab meat, crab rolls with crab meat and avocado, rolls with crab"
+host,"host, waiter, server, hostess"
+potato spinach gnocchi,"potato, gnocchi, spinach, potato spinach gnocchi"
+port,port
+portuguese cheese cart,portuguese cheese cart
+burger,"burger, hamburger, patty, beef, meat"
+blueberry pancakes,blueberry pancakes
+bill,"tab, receipt, bill, invoice"
+toppings,toppings
+lobster ravioli,lobster ravioli
+wait,"wait time, wait"
+cosi sandwiches,cosi sandwiches
+drink,"beverage, drink"
+brunch,"brunch, breakfast, lunch, brunch time, brunch spot"
+cake,"cake, dessert, pastry"
+dinner,"meal, food, mealtime, dinner"
+delmonico steak,"delmonico steak, steak, steak dinner, steak dish, steak meal"
+rice,"rice, rice dish"
+beans,"beans, bean"
+value,value
+garlic soup,garlic soup
+falafel,falafel
+tabouleh,tabouleh
+humus,"hummus, hummus dip, hummus spread, hummus dip spread, humus"
+mediterranean delights,"mediterranean, mediterranean cuisine, mediterranean food, mediterranean restaurant, mediterranean delights"
+pizza's,"pizza, pizza's"
+seafood paella for two,seafood paella for two
+apetizers,"appetizers, apetizers"
+server,"waiter, hostess, bartender, busboy, server"
+salmon dishes,salmon dishes
+foie gras,foie gras
+mac cheese,mac cheese
+brunch menu,"brunch menu, brunch, menu"
+jazz singer,jazz singer
+breakfast food,"breakfast, food, meal, morning meal, morning food, breakfast food"
+soups,"soup, soups"
+banana pudding,banana pudding
+crabcakes,"crab cakes, crabcakes"
+mac and cheese,mac and cheese
+downstairs bar scene,"bar, bar scene, bar scene downstairs, downstairs bar, downstairs bar scene"
+casual lunches,"casual lunch, casual lunches"
+tequila,"tequila, tequila shot, tequila drink, tequila shot glass"
+beer selection,"beer, beer selection, beer list, beer menu"
+beers,"beer, beers"
+delivary,"delivery, delivery time, delivery speed, delivery service, delivery timeliness, delivary"
+homemade pastas,"homemade pasta, pasta, pasta dish, homemade pastas"
+vegetable risotto,vegetable risotto
+flavor,"taste, flavor"
+homemade sorbets,"homemade sorbets, sorbets"
+homemade guacamole,"homemade guacamole, guacamole, guacamole dip, guacamole sauce"
+entree,entree
+deserts,"desserts, dessert, sweets, pastries, cakes, deserts"
+grill,"grill, barbecue, barbeque, griller"
+churrasco,"steak, meat, beef, grilled meat, grilled steak, churrasco"
+traditional italian items,"traditional italian items, traditional italian food, traditional italian cuisine, traditional italian dishes"
+setting,"atmosphere, decor, ambiance, surroundings, environment, setting"
+served,served
+iced blended mocha,iced blended mocha
+hot white mocha,hot white mocha
+late lunch,late lunch
+parmesan cheese,"parmesan, cheese, parmesan cheese"
+waitress,waitress
+salad dressing,salad dressing
+quesedilla,quesedilla
+cost,"price, bill, expense, fee, cost"
+odessa stew,odessa stew
+rabbit stew,rabbit stew
+kompot,kompot
+quality of the meat,quality of the meat
+smoothies,"smoothies, smoothie, smoothie drinks"
+fresh juices,fresh juices
+black roasted codfish,black roasted codfish
+reservation,"reservation, table, seat, appointment"
+erbazzone emiliana,erbazzone emiliana
+mostarda on the cheese plate,mostarda on the cheese plate
+dishes,"food, cuisine, menu, meal, dishes"
+vibe,vibe
+candlelight,"candlelight, candle, light, candlelight dinner, candlelight dinner restaurant"
+chicken teriyaki,chicken teriyaki
+garlic shrimp,garlic shrimp
+staff members,"staff, employees, waiters, waitresses, servers, staff members"
+sashimi portion,"sashimi, sashimi portion, sashimi size, sashimi amount, sashimi quantity"
+artifical lobster meat,artifical lobster meat
+wheat crusted pizza,wheat crusted pizza
+slices,"slice, slices, slice of pizza, pizza slice, pizza slices"
+bathroom,bathroom
+delivers,delivers
+repast,"meal, food, dinner, lunch, breakfast, repast"
+italian meal,italian meal
+organic grilled burgers,organic grilled burgers
+jerusalem market-style falafel wraps,jerusalem market-style falafel wraps
+"mediterranean salads--layered with beets, goat cheese and walnuts","mediterranean salads, salads with beets, salads with goat cheese, salads with walnuts, mediterranean salads--layered with beets, goat cheese and walnuts, mediterranean salads--layered with beets, goat cheese and walnuts"
+texture,"smooth, chewy, texture"
+hint of cocoa,hint of cocoa
+round corner table next to the large window,"round corner table, round table, corner table, table, window, round corner table next to the large window"
+twist on pizza,"pizza, pizza crust, pizza dough, pizza base, twist on pizza"
+ac,ac
+sales people,"salesperson, sales staff, sales associate, sales representative, sales clerk, sales people"
+location,"location, place, area, neighborhood, region"
+display and quality of the food,"quality, food, taste, presentation, display and quality of the food"
+italian cuisine,italian cuisine
+atmoshere,"atmosphere, ambiance, ambience, atmoshere"
+booth by the windows,"booth, table, seat, chair, bench, booth by the windows"
+vintages,"vintage, vintage wines, wine, wines, vintages"
+scenery,"view, landscape, vista, scenery"
+new hamburger with special sauce,"new hamburger, hamburger, special sauce, new burger, burger, new hamburger with special sauce"
+big mac,big mac
+fortune cookies,fortune cookies
+cookie,"cookie, cookies, cookie dough, cookie dough balls"
+sushi lunch,sushi lunch
+mojito,"mojito, mojito cocktail, mojito drink, mojito recipe, mojito cocktail recipe"
+back patio,"backyard, backyard patio, patio, patio area, patio space, back patio"
+braised lamb shank with mashed potatoes,braised lamb shank with mashed potatoes
+soy sauce,soy sauce
+fried pork dumplings,fried pork dumplings
+orange chicken/beef,orange chicken/beef
+fried rice,fried rice
+french fries -- with the kalmata dip,french fries -- with the kalmata dip
+boutique selection of wines,"wine, wine selection, wine list, wine menu, boutique selection of wines"
+assortment of wraps,"wraps, assortment of wraps"
+traditional mediterranean fare,"mediterranean, cuisine, food, traditional mediterranean fare"
+fresh veggies,fresh veggies
+middle eastern spreads,"hummus, baba ghanoush, tabbouleh, pita, middle eastern spreads"
+cheese,"cheese, cheddar, mozzarella, parmesan, gouda"
+fish,"fish, seafood, salmon, tuna, shrimp"
+root vegetables,"root vegetables, vegetables, root"
+rice medley,rice medley
+spinach thing,spinach thing
+lamb kebabs,lamb kebabs
+cheese baclava,"cheese, baclava, cheese baclava"
+fooood,"food, meal, cuisine, dish, fooood"
+saketini,saketini
+bar menu,bar menu
+look,look
+martinis,"martini, martini glass, martini cocktail, martini drink, martinis"
+table,"table, tables, table service"
+happy hour,happy hour
+kitchen,"kitchen, chef, food, meal"
+quaility,"quality, service, food, taste, price, quaility"
+space,"room, area, table, chair, space"
+treats,"treats, food, meal, dishes, cuisine"
+seats,"chairs, tables, booths, benches, stools, seats"
+attitude,attitude
+glass of wine,"glass of wine, wine, glass, wine glass"
+flavors,"flavors, taste, flavor"
+burrito,"burrito, burrito bowl, burrito wrap"
+tacos,"taco, tacos"
+margarita,"margarita, margarita pizza, margarita pizza with pepperoni, margarita pizza with pepperoni and mushrooms, margarita pizza with pepperoni and mushrooms and olives"
+reservations,"reservation, reservations, reservation system"
+dining,"food, meal, cuisine, menu, dishes, dining"
+egg mcmuffin sandwich,egg mcmuffin sandwich
+hot cakes,"hot cakes, waffles, french toast"
+breakfast,"breakfast, morning meal, morning food"
+rice dishes,rice dishes
+noodle dishes,"noodles, noodle dishes"
+ice drink,ice drink
+asian fusion,"asian, fusion, chinese, japanese, asian fusion"
+billed,"bill, billed"
+king crab salad with passion fruit vinaigrette,king crab salad with passion fruit vinaigrette
+fettuccine with grilled seafood in a rosemary-orange sauce,fettuccine with grilled seafood in a rosemary-orange sauce
+bistro menu,"menu, food, dishes, cuisine, meal, bistro menu"
+"""roy's classics""","roy's classics, roy's, classics, ""roy's classics"""
+recipes,recipes
+macadamia-crusted mahi mahi,"mahi mahi, mahi, mahi mahi fish, mahi mahi fish dish, macadamia-crusted mahi mahi"
+sweet honey-mustard beef short ribs,"honey, mustard, beef, ribs, sweet honey-mustard beef short ribs"
+cold sesame noodles,cold sesame noodles
+argentine chorizo appetizer,"chorizo, chorizo appetizer, chorizo appetizer dish, chorizo appetizer dish dish, chorizo appetizer dish dish dish, argentine chorizo appetizer"
+fennel flavored italian sausage,fennel flavored italian sausage
+delivery,"delivery, delivery time, delivery speed, delivery service, delivery timeliness"
+soy mayonaise,soy mayonaise
+tapas,"tapas, appetizers, starters, snacks, small plates"
+selection of wines (primarily spanish),"wine, wines, wine selection, wine list, wine menu, selection of wines (primarily spanish)"
+clientele,"customers, patrons, diners, guests, clientele"
+dumplings,dumplings
+shrimp dishs,shrimp dishs
+duck confitte,duck confitte
+dinner menu,"menu, food, dishes, cuisine, meal, dinner menu"
+non-meat alternatives,"vegan, vegetarian, meat-free, plant-based, non-meat, non-meat alternatives"
+gratuity,gratuity
+halibut cheek appetizer,halibut cheek appetizer
+portion of foie gras,portion of foie gras
+empenadas,empenadas
+plaintains,"plantains, plantain, plaintains"
+afternoon snack,"afternoon snack, afternoon tea, afternoon tea time, afternoon tea break"
+pasta specials,"pasta, pasta specials, pasta special"
+chicken mcnuggets,chicken mcnuggets
+filet-o-fish sandwich,filet-o-fish sandwich
+mcdonald's famous french fries,"fries, french fries, mcdonald's famous french fries"
+entree-sized salads,entree-sized salads
+tables,"chairs, seats, booths, tables"
+scene,"view, scenery, landscape, vista, panorama, scene"
+blue bar area,blue bar area
+upstrairs dining area,"upstairs dining area, upstairs dining room, upstairs dining hall, upstrairs dining area"
+veggie burger,veggie burger
+chickpeas,"chickpeas, chick peas"
+carrots,"carrots, carrot"
+vegetables,"vegetable, veggies, greens, salad, vegetables"
+spices,"spice, spices"
+menus,"menu, menus, menu items, menu options, menu choices"
+sweet corn-foie gras brulee,sweet corn-foie gras brulee
+carinthia cheese ravioli with wild mushrooms,carinthia cheese ravioli with wild mushrooms
+caviar-topped sturgeon,caviar-topped sturgeon
+green spinach-vodka sauce,"green spinach, spinach, green, spinach-vodka sauce, vodka sauce, green spinach-vodka sauce"
+patties,"patties, burger, meat, beef, patty"
+delivery service,"delivery, delivery service, delivery time, delivery speed, delivery quality"
+quality,"taste, food, service, atmosphere, price, quality"
+staff person,"staff, waiter, server, employee, staff person"
+fork,"silverware, cutlery, utensil, eating utensil, fork"
+specials,specials
+salmon,"salmon, salmon fish, salmon steak, salmon fillet, salmon dish"
+pastas,"pasta, noodles, spaghetti, macaroni, fettuccine, pastas"
+branzini,branzini
+pizzas,"pizza, pizzas, pizza pie, pizza pies"
+main courses,"main course, main courses"
+calamari,"squid, calamari, calamari rings, calamari steak, calamari strips"
+sliced steak entree,"steak, steak dinner, steak meal, steak dish, sliced steak entree"
+caeser salad,caeser salad
+fried calamari,fried calamari
+chicken milanese,chicken milanese
+chocolate raspberry cake,chocolate raspberry cake
+deco,"decor, deco"
+french food,french food
+curry,"curry, curry dish"
+poori,poori
+naan,naan
+paratha,paratha
+homemade breads,"homemade bread, bread, homemade breads"
+korean dishes,korean dishes
+prix fixe menu,prix fixe menu
+grilled cheeses,grilled cheeses
+french fries,"french fries, fries, potato fries, potato chips, chips"
+yellowfin tuna,yellowfin tuna
+calf's liver,"liver, calf's liver, calf liver"
+choices of sauces,"sauces, sauce options, sauce choices, sauce selection, choices of sauces"
+sauce cart,sauce cart
+variety,"variety, selection, options, choices, range"
+utensils,"utensils, cutlery, silverware, flatware, tableware"
+pie,"pie, pies"
+thin crust,thin crust
+green beans,"green beans, green bean"
+egg,egg
+anchovy dressing,anchovy dressing
+nicoise olives,"olives, nicoise olives, nicoise"
+red onion,red onion
+amazin' greens salads,"delicious, amazin' greens salads"
+buffalo chicken kickers,"buffalo chicken, buffalo chicken wings, buffalo chicken tenders, buffalo chicken strips, buffalo chicken bites, buffalo chicken kickers"
+cinna stix,"cinnamon sticks, cinna stix"
+side orders,"side dishes, side orders, side items"
+fries,"chips, french fries, potato chips, potato fries, potato wedges, fries"
+meaty chili,"meaty, chili, meaty chili"
+stuffed baked potatoes,stuffed baked potatoes
+chocolate frosty,chocolate frosty
+employees,"staff, waiters, waitresses, servers, service, employees"
+cherry marscapone,"cherry, marscapone, cherry marscapone, cherry marscapone cake"
+roti canai appetizer,roti canai appetizer
+mango chicken,mango chicken
+fried pancake served with pungent curry dipping sauce,"fried pancake, pancake served with pungent curry dipping sauce, fried pancake served with pungent curry dipping sauce"
+outside,outside
+ground chickpea soup,"chickpea soup, ground chickpea soup"
+starter,"appetizer, starter"
+quality of food,"taste, flavor, quality, food, cuisine, quality of food"
+rooftop bar,rooftop bar
+decoration,"decor, decoration"
+catfish,"catfish, catfish fillet, catfish steak, catfish nuggets, catfish strips"
+brisket,"beef, meat, steak, beef brisket, beef ribs, brisket"
+wings,"wings, chicken wings, chicken wing"
+cajun shrimp,cajun shrimp
+counter,"counter, cashier, checkout"
+bottle of wine,"wine, bottle, wine bottle, wine bottle of wine, wine bottle of wine bottle, bottle of wine"
+japanese dishes,japanese dishes
+foie gras unagi napolean,foie gras unagi napolean
+jap style hamburger steak,"japanese style hamburger steak, japanese hamburger steak, jap style hamburger steak"
+spicy cod roe spaghetti,spicy cod roe spaghetti
+black cod with miso base,black cod with miso base
+rack of lamb in black truffle sauce,rack of lamb in black truffle sauce
+pasta primavera,"pasta, pasta primavera, pasta primavera dish, pasta primavera dish with shrimp, pasta primavera dish with shrimp and scallops"
+dessert menu,"dessert menu, dessert, menu"
+takeout,"take-out, takeout"
+cocktail hour,"happy hour, cocktail hour"
+filet mignon,"steak, steak dinner, steak dish, steak meal, steak plate, filet mignon"
+non-sushi selection,"sushi, sushi selection, sushi menu, sushi options, sushi choices, non-sushi selection"
+courses,"dishes, food, menu, meals, entrees, courses"
+size,size
+chicken tacos,chicken tacos
+hibiscus lemonade,"hibiscus lemonade, hibiscus tea, hibiscus drink, hibiscus juice"
+french dish,french dish
+casual drink,"casual drink, casual drinks"
+outdoors,"patio, terrace, garden, balcony, porch, outdoors"
+dance floor,dance floor
+pre-show meal,pre-show meal
+fried foods,fried foods
+lamb entree,lamb entree
+salads (avocado shrimp),"shrimp, salad, salads (avocado shrimp)"
+dabs of real mozzarella,dabs of real mozzarella
+room,"room, rooms, room service"
+outdoor eating area,outdoor eating area
+[female] servers,"female, [female] servers"
+chocolate and peanut butter tart,chocolate and peanut butter tart
+lounge,"bar, bar area, bar lounge, bar area lounge, bar lounge area, lounge"
+bi-level space,"space, room, area, floor, level, bi-level space"
+long bar,long bar
+appetizer selection,"appetizer, appetizer selection"
+mozzarella sticks,mozzarella sticks
+chicken and falafel platters,chicken and falafel platters
+fresh leaf salad,fresh leaf salad
+focacchia bread,focacchia bread
+pialla,pialla
+fresh salsa,fresh salsa
+new menu,new menu
+greek food,greek food
+shepherds pie,shepherds pie
+portabella lasagna,portabella lasagna
+pub fare,"pub food, pub grub, pub fare"
+vegan cranberry pancakes,vegan cranberry pancakes
+rice milk,rice milk
+creamy appetizers,"creamy, appetizers, creamy appetizers"
+warm pitas,warm pitas
+taramasalata,taramasalata
+eggplant salad,eggplant salad
+"greek yogurt (with cuccumber, dill, and garlic)","greek yogurt (with cuccumber, dill, and garlic), greek yogurt (with cuccumber, dill, and garlic)"
