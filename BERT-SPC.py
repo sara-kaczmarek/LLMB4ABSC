@@ -11,7 +11,7 @@ from tqdm import tqdm
 import random
 from copy import deepcopy
 
-def bert_spc(df_train, df_test, model_name='bert-base-uncased', batch_size=16, epochs=5, max_len=256, lr=2e-5):
+def bert_spc(df_train, df_test, model_name='bert-base-uncased', batch_size=16, epochs=3, max_len=256, lr=2e-5):
 
     torch.manual_seed(42)
     torch.cuda.manual_seed_all(42)
