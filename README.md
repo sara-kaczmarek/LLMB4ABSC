@@ -1,2 +1,2 @@
-# bootstrapping-llms
-Bootstrapping LLM’s for Unsupervised Aspect-Based Sentiment Classification
+# LLMB4ABSC
+LLM Bootstrapper for Aspect-Based Sentiment Classification
