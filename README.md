@@ -28,4 +28,4 @@ This study introduces LLMB4ABSC, a two-stage unsupervised framework to ABSC that
 ### *Evaluation*
 - The `evlauation_measures.py` file contains the functions necessary to get the performance results for the proposed framework.
 - The `evaluation/` folder contains the scripts for the SOTA ABSC models (`R-GAT.py`, `BERT-SPC.py`, `ATAE-LSTM.py`), and the notebook for the compared DA methods (`LLM_DA.ipynb`). The folder also contains the notebooks for the experiments on few-shot ABSC (`Experiments1.ipynb`), as well as on SOTA ABSC models (`Experiments2.ipynb`).
-- The `figures.ipynb` notebook contains the code for all the figures in the study. 
+- The `figures.ipynb` notebook contains the code for the figures used in the study. 
